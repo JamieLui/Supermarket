@@ -1,0 +1,8 @@
+com/checkout/PromotionTests.class
+com/promotion/ProductPromotionTests.class
+com/checkout/CheckoutTests.class
+com/promotion/PromotionUtilsTests.class
+com/supermarket/SupermarketApplicationTests.class
+com/promotion/CheckoutPromotionTests.class
+com/testdata/TestData.class
+com/product/ProductTests.class
